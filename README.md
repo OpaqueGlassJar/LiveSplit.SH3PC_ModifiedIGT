@@ -8,7 +8,7 @@ RTA Load Remover for Silent Hill 3 designed to replicate native IGT, but without
 
 * Download Livesplit
 * Right Click -> Edit Layout
-* + Symbol -> Control -> Scriptable Auto Splitter
+* "+" Symbol -> Control -> Scriptable Auto Splitter
 * Layout Settings -> Scriptable Auto Splitter -> Browse... -> Select "LiveSplit.SH3PC_ModifiedIGT.asl"
 * Make sure "Start" and "Split" options are checked
 * Press OK to save changes
